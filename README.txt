@@ -1,3 +1,6 @@
+Richard Lebel 9/13/2020. I give full credit to @ajlkn for the development of this template. I very much enjoyed modifying it for my personal use. Thank you HTML5 UP and @ajlkn!
+
+
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
